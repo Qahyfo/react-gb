@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button Render witch snapshot 1`] = `
+<DocumentFragment>
+  <button>
+    test
+  </button>
+</DocumentFragment>
+`;
